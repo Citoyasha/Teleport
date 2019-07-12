@@ -12,7 +12,7 @@ a Teleport module for Tera-Proxy / Tera-Toolbox QoL based on ZC's [Tele-Port] mo
 
 | Commands | description |
 | ------ | ------ |
-| tp x y z | teleport to a certain coordination |
+| tp x y z | teleport to a specific coordination |
 | tp save/s <name> | save your current location |
 | tp move/m <name> | teleport to a saved location |
 | tp delete/remove/del <name> | delete a saved location |
