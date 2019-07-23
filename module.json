@@ -1,0 +1,31 @@
+{
+
+  "disableAutoUpdate" : false,
+
+  "author": "Citoyasha",
+
+  "options": {
+
+    "niceName": "Teleport",
+
+    "guiName": "Teleport"
+
+  },
+
+  "supportUrl": "https://github.com/Citoyasha/Teleport",
+
+  "servers": ["https://raw.githubusercontent.com/Citoyasha/Teleport/master/"],
+
+  "name": "Teleport",
+
+  "description": "Teleport Module! duh!",
+
+  "packets": {
+
+    "C_PLAYER_LOCATION": 5,
+
+    "S_INSTANT_MOVE": 3
+
+  }
+
+}
