@@ -6,7 +6,7 @@ a Teleport module for Tera-Proxy / Tera-Toolbox QoL based on ZC's [Tele-Port] mo
 #### Requirement
 
   - [Tera Toolbox]
-  - [tera message module]
+  - Brain
 
 #### Commands
 
@@ -16,7 +16,7 @@ a Teleport module for Tera-Proxy / Tera-Toolbox QoL based on ZC's [Tele-Port] mo
 | tp save/s <name> | save your current location |
 | tp move/m <name> | teleport to a saved location |
 | tp delete/remove/del <name> | delete a saved location |
-| tp blink | blinks (doesn't work properly) |
+| tp blink <distance> | blinks |
 | tp back | teleports back to where you blinked |
 | tp up <altitude> | teleport upward |
 | tp down <altitude> | teleport downward |
@@ -25,5 +25,4 @@ a Teleport module for Tera-Proxy / Tera-Toolbox QoL based on ZC's [Tele-Port] mo
 
 
    [Tera Toolbox]: <https://github.com/tera-toolbox/tera-toolbox>
-   [tera message module]: <https://github.com/tera-mod/tera-message>
    [Tele-Port]: <https://github.com/tera-mod/Tele-Port>
